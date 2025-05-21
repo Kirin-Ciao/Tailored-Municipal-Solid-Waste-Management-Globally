@@ -1,0 +1,26 @@
+index,indicator ID,indicator name,indicator unit
+0,1d1fb08f-02ae-4d4e-873b-624996211247,ecosystem quality - acidification: terrestrial,species.yr
+1,8637d53d-f750-463c-a7e0-be2b318819cb,ecosystem quality - ecotoxicity: freshwater,species.yr
+2,fc8e8a5f-2262-45b3-b00e-7a7fbd038ea1,"natural resources - energy resources: non-renewable, fossil",USD 2013
+3,29701298-6a77-4a02-bc92-bf2a53e6cb13,ecosystem quality - eutrophication: freshwater,species.yr
+4,d32a15e6-706a-4c29-900b-b8801a5506d2,human health - water use: human health,DALYs
+5,5bdafaa4-6641-4eae-b011-fb1352e75f02,human health - particulate matter formation,DALYs
+6,04675acf-3755-4b52-9797-ac3b9841844a,human health - ozone depletion,DALYs
+7,61396d86-5123-4059-8a76-26911641e373,total: natural resources - natural resources,USD 2013
+8,ee53efc7-7739-4fb0-8dcb-c394625a3a26,ecosystem quality - land use,species.yr
+9,674bacfb-fc1a-4c8b-bef8-5c1abf29cc93,ecosystem quality - water use: terrestrial ecosystems,species.yr
+10,a3ce4459-4d70-4597-b868-677bd45daf04,ecosystem quality - eutrophication: marine,species.yr
+11,f8142e73-38ea-4c16-9e6b-2351adcadc73,human health - human toxicity: carcinogenic,DALYs
+12,c9dca986-73a8-4342-946b-155d91c41a4b,total: human health - human health,DALYs
+13,c2a06609-b1c4-4987-a0fe-f57b80928619,ecosystem quality - photochemical oxidant formation: terrestrial ecosystems,species.yr
+14,04e35d71-7da2-4160-8196-c8b7b5b0146a,ecosystem quality - water use: aquatic ecosystems,species.yr
+15,3aefda71-9e35-4139-9035-a10b311aa719,natural resources - material resources: metals/minerals,USD 2013
+16,2c9f3dd3-eba0-401b-bc9f-052732eb061d,total: ecosystem quality - ecosystem quality,species.yr
+17,37c947e7-4e83-4d6b-bf8c-1f51b140af4c,human health - human toxicity: non-carcinogenic,DALYs
+18,ec0ce361-c7ed-4ccb-8b8d-209efb884610,ecosystem quality - ecotoxicity: marine,species.yr
+19,b8e3af7c-534c-46fc-88c6-b3342e16157f,ecosystem quality - ecotoxicity: terrestrial,species.yr
+20,fe61ecba-7fff-46bd-87fe-eefe840ca760,ecosystem quality - climate change: freshwater ecosystems,species.yr
+21,828ca74d-686b-4d5f-8f20-4e965f7e5349,ecosystem quality - climate change: terrestrial ecosystems,species.yr
+22,2a8fee09-d71b-43bb-be07-ad42064dc2e9,human health - climate change: human health,DALYs
+23,e18e3482-1a77-404b-8ca7-2f227ef0b871,human health - photochemical oxidant formation: human health,DALYs
+24,90eb49ec-7fc6-48df-8a9f-2a0f9c4c4c40,human health - ionising radiation,DALYs
