@@ -22,7 +22,7 @@ Reproducible RF-based MSW forecasting & openLCA system models for our Nature Sus
 
 - **WeChat Official Account**  
   扫码关注我们的公众号：  
-  [![WeChat Official Account QR](docs/images/wechat_qr.png)](https://mp.weixin.qq.com/s/xxxxx) 
+  [![WeChat Official Account QR](docs/images/wechat_qr.png)] 
 
 - **Lab Introduction**  
   吉林大学 食物、农业与生物质课题组
