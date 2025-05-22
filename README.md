@@ -97,3 +97,19 @@ Full column descriptions are provided in the paper’s Supplementary-Data guide.
   url    = {https://github.com/<your-username>/Tailored-Municipal-Solid-Waste-Management-Globally},
   note   = {Version v1.0, DOI: <to-be-assigned>}
 }
+
+---
+
+## 7  License
+
+- **Code** — Apache 2.0  
+- **Data & models** — Creative Commons Attribution 4.0 International (CC BY 4.0)  
+
+See [`LICENSE`](LICENSE) for full terms.
+
+---
+
+## 8  Contact
+
+- ✉️ caoql23 (at) mails.jlu.edu.cn  
+- Please open **issues** or **pull requests** for questions, feedback, or contributions.
