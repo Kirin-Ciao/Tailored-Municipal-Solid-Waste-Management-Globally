@@ -3,31 +3,32 @@ Reproducible RF-based MSW forecasting & openLCA system models for our Nature Sus
 ---
 
 ## Table of Contents
-1. [Project Highlights](#project-highlights)
-2. [Repository Overview](#repository-overview)
-3. [Random-Forest (MSW Forecasting)](#random-forest-msw-forecasting)
-4. [LCIA Product-System Models](#lcia-product-system-models)
-5. [Supplementary Data Mapping](#supplementary-data-mapping)
-6. [Road-map](#road-map)
-7. [Citing this Repository](#citing-this-repository)
-8. [License](#license)
-9. [Contact](#contact)
+1. [Project Highlights](#1-project-highlights)
+2. [Repository Overview](#2-repository-overview)
+3. [Random-Forest (MSW Forecasting)](#3-random-forest-msw-forecasting)
+4. [LCIA Product-System Models](#4-lcia-product-system-models)
+5. [Supplementary Data Mapping](#5-supplementary-data-mapping)
+6. [Road-map](#6-road-map)
+7. [Citing this Repository](#7-citing-this-repository)
+8. [License](#8-license)
+9. [Contact](#9-contact)
 
 ---
 
-## 1  Project Highlights
+## 1 Project Highlights
 
 - **Published Article**  
   Cao, Q.-L., et al. (2025). *Tailoring municipal solid-waste management worldwide through machine-learning projection and life-cycle assessment*. **Nature Sustainability**. DOI: [to be added]  
 
 - **WeChat Official Account**  
   扫码关注我们的公众号：  
-  ![WeChat QR](path/to/your-qr-code.png)  
+  [![WeChat Official Account QR](docs/images/wechat_qr.png)](https://mp.weixin.qq.com/s/xxxxx) 
 
 - **Lab Introduction**  
   吉林大学 食物、农业与生物质课题组
   Food, Agriculture & Biomass Research Group, JLU  
-  - 网站：[http://your-lab-website.jlu.edu.cn](http://your-lab-website.jlu.edu.cn)  
+  - 网站：[https://teachers.jlu.edu.cn/jnSong/zh_CN/index/671919/list/index.htm](https://teachers.jlu.edu.cn/jnSong/zh_CN/index/671919/list/index.htm)
+  - [https://teachers.jlu.edu.cn/yangwea/zh_CN/index.htm](https://teachers.jlu.edu.cn/yangwea/zh_CN/index.htm)
   - 简介：本课题组由宋俊年教授和杨巍副教授领衔，主要针对可持续食物与农业系统、废弃物资源化与能源化等方向开展研究。  
 
 ---
@@ -41,7 +42,7 @@ Reproducible RF-based MSW forecasting & openLCA system models for our Nature Sus
 
 ---
 
-## 3  Random-Forest (MSW Forecasting)
+## 3 Random-Forest (MSW Forecasting)
 
 RandomForest-Forecasting/  
 ├── Skeleton_code/            # training scripts (Chinese comments)  
@@ -61,7 +62,7 @@ Historical samples (2010‒2020) and SSP1-5 drivers (2030‒2050) are released a
 
 ---
 
-## 4  LCIA Product-System Models
+## 4 LCIA Product-System Models
 
 Format      | Location                                    | How to use in openLCA 2.0.4  
 ----------- | ------------------------------------------- | -----------------------------  
@@ -75,7 +76,7 @@ Each package bundles the product system and all referenced processes & flows (im
 
 ---
 
-## 5  Supplementary Data Mapping
+## 5 Supplementary Data Mapping
 
 Series  | Contents                                      | Repository location  
 ------- | --------------------------------------------- | --------------------  
@@ -89,7 +90,7 @@ Full column descriptions are provided in the paper’s Supplementary-Data guide.
 
 ---
 
-## 6  Road-map
+## 6 Road-map
 
 - Add 2030–2050 projections & multi-SSP variants for all six modes  
 - Release matching **JSON-LD** exports for every dataset  
@@ -97,7 +98,7 @@ Full column descriptions are provided in the paper’s Supplementary-Data guide.
 
 ---
 
-## 7  Citing this Repository
+## 7 Citing this Repository
 
 ```bibtex
 @article{Cao2025_NatureSustain,
@@ -119,7 +120,7 @@ Full column descriptions are provided in the paper’s Supplementary-Data guide.
 
 ---
 
-## 8  License
+## 8 License
 
 - **Code** — Apache 2.0  
 - **Data & models** — Creative Commons Attribution 4.0 International (CC BY 4.0)  
@@ -128,7 +129,7 @@ See [`LICENSE`](LICENSE) for full terms.
 
 ---
 
-## 9  Contact
+## 9 Contact
 
 - ✉️ <caoql23@mails.jlu.edu.cn> 
 - Please open **issues** or **pull requests** for questions, feedback, or contributions.
