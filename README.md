@@ -111,5 +111,5 @@ See [`LICENSE`](LICENSE) for full terms.
 
 ## 8  Contact
 
-- ✉️ caoql23 (at) mails.jlu.edu.cn  
+- ✉️ caoql23@mails.jlu.edu.cn  
 - Please open **issues** or **pull requests** for questions, feedback, or contributions.
