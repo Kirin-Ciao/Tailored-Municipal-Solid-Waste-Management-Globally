@@ -3,9 +3,9 @@ Reproducible RF-based MSW forecasting & openLCA system models for our Nature Sus
 ---
 
 ## Table of Contents
-1. [Project Highlights](#project-highlights)
-2. [Repository Overview](#repository-overview)
-3. [Random-Forest (MSW Forecasting)](#random-forest-msw-forecasting)
+1. [Project Highlights](#1-project-highlights)
+2. [Repository Overview](#2-repository-overview)
+3. [Random-Forest (MSW Forecasting)](#3-random-forest-msw-forecasting)
 4. [LCIA Product-System Models](#lcia-product-system-models)
 5. [Supplementary Data Mapping](#supplementary-data-mapping)
 6. [Road-map](#road-map)
