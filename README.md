@@ -22,12 +22,13 @@ Reproducible RF-based MSW forecasting & openLCA system models for our Nature Sus
 
 - **WeChat Official Account**  
   扫码关注我们的公众号：  
-  ![WeChat QR](path/to/your-qr-code.png)  
+  [![WeChat Official Account QR](docs/images/wechat_qr.png)](https://mp.weixin.qq.com/s/xxxxx) 
 
 - **Lab Introduction**  
   吉林大学 食物、农业与生物质课题组
   Food, Agriculture & Biomass Research Group, JLU  
-  - 网站：[http://your-lab-website.jlu.edu.cn](http://your-lab-website.jlu.edu.cn)  
+  - 网站：[https://teachers.jlu.edu.cn/jnSong/zh_CN/index/671919/list/index.htm](https://teachers.jlu.edu.cn/jnSong/zh_CN/index/671919/list/index.htm)
+  - [https://teachers.jlu.edu.cn/yangwea/zh_CN/index.htm](https://teachers.jlu.edu.cn/yangwea/zh_CN/index.htm)
   - 简介：本课题组由宋俊年教授和杨巍副教授领衔，主要针对可持续食物与农业系统、废弃物资源化与能源化等方向开展研究。  
 
 ---
