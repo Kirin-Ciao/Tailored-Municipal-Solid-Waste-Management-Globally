@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software in a publication, please cite:"
+```bibtex
+@article{Cao2025_NatureSustain,
+  author  = {to be supplemented},
+  title   = {to be supplemented},
+  journal = {Nature Sustainability},
+  year    = {2025},
+  status  = {to be supplemented}
+}
+
+@software{Cao2025_GitHub,
+  author = {Qilin Cao},
+  title  = {Tailored-Municipal-Solid-Waste-Management-Globally},
+  year   = {2025},
+  url    = {https://github.com/<your-username>/Tailored-Municipal-Solid-Waste-Management-Globally},
+  note   = {Version v1.0, DOI: <to-be-assigned>}
+}
