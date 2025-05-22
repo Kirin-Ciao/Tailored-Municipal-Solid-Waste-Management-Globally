@@ -1,2 +1,7 @@
-# Tailored-Municipal-Solid-Waste-Management-Globally
-Reproducible RF-based MSW forecasting & openLCA system models for our Nature Sustainability study on globally tailored waste management.
+## Random-Forest (MSW Forecasting)
+
+### Quick start
+```bash
+git checkout RandomForest-Forecasting
+pip install -r requirements.txt
+python PRE_code.py --year 2035 --scenario SSP2 --country CHN
