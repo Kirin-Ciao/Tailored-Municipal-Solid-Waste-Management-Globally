@@ -18,7 +18,7 @@ Reproducible RF-based MSW forecasting & openLCA system models for our Nature Sus
 ## 1 Project Highlights
 
 - **Published Article**  
-  Cao, Q.-L., et al. (2025). *Tailoring municipal solid-waste management worldwide through machine-learning projection and life-cycle assessment*. **Nature Sustainability**. DOI: [to be added]  
+  **Qilin Cao**, Junnian Song*, Chaoshuo Liu, Wei Yang*, Helmut Yabar, Heran Zheng, Zhifu Mi*, **2025**. Expediting co-benefits of tailored municipal solid waste management strategies globally. _Nature Sustainability_. https://doi.org/10.1038/s41893-025-01613-w. 
 
 - **WeChat Official Account**  
   扫码关注我们的公众号：  
